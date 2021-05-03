@@ -1,4 +1,4 @@
-# :fire: Crud Tasks With React & TailwindCSS :fire:
+# :fire: Crud Tasks With React, React-Redux & TailwindCSS :fire:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [TailwindCSS](https://tailwindcss.com)
 
